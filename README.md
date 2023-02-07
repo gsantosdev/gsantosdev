@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with **Spring Framework**
 
-- 🌱 I’m currently learning **Software Architecture and BlockChain**
+- 🌱 I’m currently learning **Software Architecture and Blockchain**
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos01/)](https://www.linkedin.com/in/gustavo-santos01/)
